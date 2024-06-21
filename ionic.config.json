@@ -1,0 +1,7 @@
+{
+  "name": "dan-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
